@@ -292,16 +292,4 @@ def printGreedy():
     return
 
 main()
-
-
-
-
-def test():
-    arr1 = [0]*8
-    arr2 = [2]*3
-    print(arr1,arr2)
-    arr2 = arr1
-    arr1 = [4]*4
-    print(arr1,arr2)
-    return
-#test()
+input()
