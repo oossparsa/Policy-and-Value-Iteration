@@ -349,3 +349,4 @@ def printGreedy():
     return
 
 main()
+input()
